@@ -1,5 +1,5 @@
 """
-	Este es mi primer ejemplo
+	Este es mi segundo ejemplo
 	presentando mi nombre en 
 	Python
 """	
